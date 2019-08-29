@@ -2,7 +2,7 @@
 #include<math.h>
 
 /** simple.c is a C program that calculates average of square roots
- *  of an array of 10 integers, 1-10. 
+ *  of an array of 10 integers. 
  */
 void main() {
   int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; 
